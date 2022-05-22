@@ -10,6 +10,22 @@ h2{
     font-size: 35x;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+/* --------------------------JENIS FONT------------------------- */
+.fontRaleway {
+    font-family: 'Raleway', sans-serif;
+}
+.fontUbuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+.fontBersambung{
+    font-family: 'Smooch', cursive;
+}
+.fontZenloop{
+    font-family: 'Zen Loop', cursive;
+}
+
+
 /* --------------------------HEADER------------------------------- */
 .headertipe1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
