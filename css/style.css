@@ -24,6 +24,15 @@ h2{
 .fontZenloop{
     font-family: 'Zen Loop', cursive;
 }
+.fontPoppins{
+    font-family: 'Poppins', sans-serif;
+}
+.fontNotoSans{
+    font-family: 'Noto Sans', sans-serif;
+}
+.fontSerif{
+    font-family: 'PT Serif', serif;
+}
 
 
 /* --------------------------HEADER------------------------------- */
