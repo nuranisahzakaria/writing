@@ -10,6 +10,14 @@ h2{
     font-size: 35x;
     font-family: Arial, Helvetica, sans-serif;
 }
+.container {
+    padding: 30px;
+    border-style: solid;
+    border-width: 2px;
+    
+}
+
+
 
 /* --------------------------JENIS FONT------------------------- */
 .fontRaleway {
