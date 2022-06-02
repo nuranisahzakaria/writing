@@ -1,0 +1,14 @@
+.latarPinky{
+    background-color: rgb(225, 181, 199);
+}
+video{
+    padding-left: 70px;
+    position: absolute;
+}
+p{
+    position: absolute;
+    font-size: 22px;
+    margin: 100px 250px 0 460px;
+    margin-right: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
