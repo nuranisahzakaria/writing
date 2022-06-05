@@ -20,6 +20,9 @@ h2{
 
 
 /* --------------------------JENIS FONT------------------------- */
+.b{
+    font-weight: bold;
+}
 .fontRaleway {
     font-family: 'Raleway', sans-serif;
 }
