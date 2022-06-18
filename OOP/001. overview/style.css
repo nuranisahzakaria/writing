@@ -5,11 +5,12 @@ video{
     padding-left: 70px;
     position: absolute;
 }
-p{
+.isi{
     position: absolute;
-    font-size: 22px;
-    margin: 100px 250px 0 460px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin: 40px 70px 0 460px;
+    padding-bottom: 70px;
+    font-family: 'raleway', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 footer {
     font-size: 10px;
@@ -20,4 +21,10 @@ footer {
 }
 .miring{
     font-style: italic;
+}
+.latarKuning{
+    background-color: rgb(255, 227, 169);
+}
+.bold {
+    font-weight: bold;
 }
